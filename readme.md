@@ -14,7 +14,7 @@ This project was developed for the Udacity Data Analyst Nanodegree, in order to 
 
 <a name="data"></a>
 ## Dataset
-The data consisted of information about the approximately 84,000 trips made during April 2020. The attributes included the bicycle type, time and date of bicycle rental and return, start and end stations, among others.  
+The data consisted of information about the approximately 84,000 trips made during April 2020 in the San Francisco Bay Area. The attributes included the bicycle type, time and date of bicycle rental and return, start and end stations, among others.  
 To download the used dataset, as well as datasets from other months and years, click [here](https://s3.amazonaws.com/baywheels-data/index.html).
 
 <a name="requisites"></a>
